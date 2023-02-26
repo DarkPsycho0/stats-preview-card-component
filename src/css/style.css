@@ -24,7 +24,7 @@ body {
     height: 446px;
     position: relative;
 }
-.header img {
+.header img, .header div {
     border-end-end-radius: 10px;
     border-top-right-radius: 10px;
 }
@@ -35,8 +35,6 @@ body {
     height: 100%;
     top: 0;
     opacity: 55%;
-    border-end-end-radius: 10px;
-    border-top-right-radius: 10px;
 }
 .main {
     padding: 72px;
