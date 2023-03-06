@@ -22,7 +22,7 @@ Users should be able to:
 
 ### link 🔗
 
-- Live Site URL: https://lkiryu.github.io/stats-preview-card/
+- Live Site URL: https://lkiryu.github.io/stats-preview-card-component/
 
 ### Built with 🛠️
 - HTML5
